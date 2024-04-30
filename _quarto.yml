@@ -1,7 +1,7 @@
 project:
   type: website
   resources:
-    - assets/fonts/*
+    - assets/fonts
 
 website:
   title: "fonts-test"
